@@ -1,0 +1,780 @@
+[
+  {
+    "name": "The Finch, Historic Landmark House",
+    "url": "https://www.airbnb.com/rooms/990305?adults=1&children=&infants=&pets=&check_in=2026-05-27&check_out=2026-06-01&currency=USD&locale=en",
+    "price": 428,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.95,
+    "reviewCount": 1503,
+    "image": "https://a0.muscache.com/im/pictures/a658e712-19bb-4f4b-a484-7a1c5d0dc10b.jpg?im_w=720",
+    "type": "Private room",
+    "location": "Seaside",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1.5,
+    "capacity": 1,
+    "superhost": true
+  },
+  {
+    "name": "Serene Redwood Retreat w/Modern Comfort",
+    "url": "https://www.airbnb.com/rooms/24715555?adults=1&children=&infants=&pets=&check_in=2026-04-19&check_out=2026-04-24&currency=USD&locale=en",
+    "price": 2597,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.97,
+    "reviewCount": 344,
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjQ3MTU1NTU%3D/original/1b4dbec6-1f65-4cd4-b1d1-37a68eb07771.jpeg?im_w=720",
+    "type": "Cabin",
+    "location": "Carmel-by-the-Sea",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": null,
+    "beds": null,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Private romantic 1 br homestay love dogs",
+    "url": "https://www.airbnb.com/rooms/6183923?adults=1&children=&infants=&pets=&check_in=2026-03-29&check_out=2026-04-03&currency=USD&locale=en",
+    "price": 816,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.87,
+    "reviewCount": 976,
+    "image": "https://a0.muscache.com/im/pictures/5455c11b-c10f-4518-8fad-b27d3e996886.jpg?im_w=720",
+    "type": "Apartment",
+    "location": "Carmel-by-the-Sea",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Simple bedroom in a peaceful quiet home",
+    "url": "https://www.airbnb.com/rooms/50266951?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 254,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.88,
+    "reviewCount": 166,
+    "image": "https://a0.muscache.com/im/pictures/37fbebc1-98ff-4648-96ca-0b634568cf86.jpg?im_w=720",
+    "type": "Private room",
+    "location": "Salinas",
+    "badges": [
+      "Superhost"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1.5,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Designer Private Room with Shared Bath + Hot Tub",
+    "url": "https://www.airbnb.com/rooms/628326338067037756?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 398,
+    "originalPrice": 442,
+    "qualifier": "for 5 nights",
+    "rating": 4.97,
+    "reviewCount": 217,
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NjI4MzI2MzM4MDY3MDM3NzU2/original/91834e21-f370-4865-99f5-527dd5d392b3.jpeg?im_w=720",
+    "type": "Private room",
+    "location": "Joshua Tree",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Joshua Tree Escape with Climbing Wall + Hot Tub",
+    "url": "https://www.airbnb.com/rooms/46467182?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 635,
+    "originalPrice": 736,
+    "qualifier": "for 5 nights",
+    "rating": 4.95,
+    "reviewCount": 271,
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NDY0NjcxODI%3D/original/24360358-ff13-4ff3-be78-71c8b0f79ae4.jpeg?im_w=720",
+    "type": "Cabin",
+    "location": "Joshua Tree",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 3,
+    "beds": 6,
+    "bathrooms": 2,
+    "capacity": 9,
+    "superhost": true
+  },
+  {
+    "name": "Hilltop Hideaway, a Joshua Tree Retreat",
+    "url": "https://www.airbnb.com/rooms/43382914?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 585,
+    "originalPrice": 658,
+    "qualifier": "for 5 nights",
+    "rating": 4.94,
+    "reviewCount": 453,
+    "image": "https://a0.muscache.com/im/pictures/093c98eb-5608-4fd6-b990-7e5190114f98.jpg?im_w=720",
+    "type": "Home",
+    "location": "Joshua Tree",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "capacity": 4,
+    "superhost": true
+  },
+  {
+    "name": "Modern CozyPeaceful jr. pickleball crt 5 mins JTNP",
+    "url": "https://www.airbnb.com/rooms/874162769149744210?adults=1&children=&infants=&pets=&check_in=2026-06-07&check_out=2026-06-12&currency=USD&locale=en",
+    "price": 389,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.8,
+    "reviewCount": 128,
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-874162769149744210/original/56a18975-6018-4ac4-ab69-a4d902ce7200.jpeg?im_w=720",
+    "type": "Home",
+    "location": "Twentynine Palms",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 3,
+    "bathrooms": 1,
+    "capacity": 4,
+    "superhost": false
+  },
+  {
+    "name": "Lodge on Pioneer\u2013Modern Sml Dbl Room near Heavenly",
+    "url": "https://www.airbnb.com/rooms/1121317957364948054?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 356,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.84,
+    "reviewCount": 576,
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1121317957364948054/original/7a233d14-76ca-446b-a77b-51f2570785d2.jpeg?im_w=720",
+    "type": "Hotel room",
+    "location": "South Lake Tahoe",
+    "badges": [
+      "Superhost"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "3 Peaks Resort Beach Club Deluxe King Hotel Room",
+    "url": "https://www.airbnb.com/rooms/1105279501396097908?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 432,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.74,
+    "reviewCount": 1584,
+    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1105279501396097908/original/21c1ed5c-8ce6-412c-93cf-77acf23f9563.jpeg?im_w=720",
+    "type": "Hotel room",
+    "location": "South Lake Tahoe",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": false
+  },
+  {
+    "name": "Studio on Lake Tahoe Blvd #8",
+    "url": "https://www.airbnb.com/rooms/553134690090947514?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 514,
+    "originalPrice": 714,
+    "qualifier": "for 5 nights",
+    "rating": 4.87,
+    "reviewCount": 228,
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-553134690090947514/original/f1fb4097-9f37-4602-9a6c-6d816caaff75.jpeg?im_w=720",
+    "type": "Apartment",
+    "location": "South Lake Tahoe",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": null,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Lake Tahoe Vacation Resort- Studio",
+    "url": "https://www.airbnb.com/rooms/10721100?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 551,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.88,
+    "reviewCount": 190,
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTA3MjExMDA=/original/b64bf8e8-cab5-444b-8b9a-a8a800a21232.jpeg?im_w=720",
+    "type": "Apartment",
+    "location": "South Lake Tahoe",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": null,
+    "beds": 2,
+    "bathrooms": 1,
+    "capacity": 4,
+    "superhost": true
+  },
+  {
+    "name": "The Surfrider Bungalow on Carbon Beach",
+    "url": "https://www.airbnb.com/rooms/6081725?adults=1&children=&infants=&pets=&check_in=2026-03-08&check_out=2026-03-13&currency=USD&locale=en",
+    "price": 2192,
+    "originalPrice": 2442,
+    "qualifier": "for 5 nights",
+    "rating": 4.91,
+    "reviewCount": 474,
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NjA4MTcyNQ%3D%3D/original/3d408988-6d4f-4ae2-8f3e-4d6db19279e8.jpeg?im_w=720",
+    "type": "Bungalow",
+    "location": "Malibu",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 2,
+    "bathrooms": 1,
+    "capacity": 4,
+    "superhost": true
+  },
+  {
+    "name": "Mid-Century Malibu Studio | Ocean View Retreat",
+    "url": "https://www.airbnb.com/rooms/35872969?adults=1&children=&infants=&pets=&check_in=2026-03-03&check_out=2026-03-08&currency=USD&locale=en",
+    "price": 1931,
+    "originalPrice": 2978,
+    "qualifier": "for 5 nights",
+    "rating": 4.99,
+    "reviewCount": 371,
+    "image": "https://a0.muscache.com/im/pictures/1d1faa4b-23aa-4335-a271-7035dbf02503.jpg?im_w=720",
+    "type": "Guest suite",
+    "location": "Malibu",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": null,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": false
+  },
+  {
+    "name": "VINEYARD | BBQ | BEACH 5 MIN | POND | STONE SHOWER",
+    "url": "https://www.airbnb.com/rooms/46417144?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 902,
+    "originalPrice": 1260,
+    "qualifier": "for 5 nights",
+    "rating": 4.82,
+    "reviewCount": 353,
+    "image": "https://a0.muscache.com/im/pictures/45bd839c-738b-4f8e-ad87-ea1086e35df5.jpg?im_w=720",
+    "type": "Villa",
+    "location": "Malibu",
+    "badges": [
+      "Superhost"
+    ],
+    "bedrooms": 1,
+    "beds": 2,
+    "bathrooms": 1,
+    "capacity": 5,
+    "superhost": true
+  },
+  {
+    "name": "Malibu Beachfront Condo | 1BR, Steps to Sand",
+    "url": "https://www.airbnb.com/rooms/10468615?adults=1&children=&infants=&pets=&check_in=2026-03-18&check_out=2026-03-23&currency=USD&locale=en",
+    "price": 1874,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": null,
+    "reviewCount": 2,
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-10468615/original/7eb37ba7-5d68-42ba-8a2d-091c122388d9.jpeg?im_w=720",
+    "type": "Apartment",
+    "location": "Malibu",
+    "badges": [],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": false
+  },
+  {
+    "name": "Luxurious Romantic Napa Valley Resort Sleeps 4",
+    "url": "https://www.airbnb.com/rooms/30712502?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 543,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.92,
+    "reviewCount": 36,
+    "image": "https://a0.muscache.com/im/pictures/a84c6fce-c8ee-40bf-80bb-4753dec5a7d6.jpg?im_w=720",
+    "type": "Hotel room",
+    "location": "Napa",
+    "badges": [
+      "Superhost"
+    ],
+    "bedrooms": null,
+    "beds": 2,
+    "bathrooms": 1,
+    "capacity": 4,
+    "superhost": true
+  },
+  {
+    "name": "One Bedroom Cottage Along the Napa River",
+    "url": "https://www.airbnb.com/rooms/28107651?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 626,
+    "originalPrice": 801,
+    "qualifier": "for 5 nights",
+    "rating": 4.73,
+    "reviewCount": 2582,
+    "image": "https://a0.muscache.com/im/pictures/ebf03b31-82ed-497a-8238-7405992b92a7.jpg?im_w=720",
+    "type": "Condo",
+    "location": "Napa",
+    "badges": [
+      "Superhost"
+    ],
+    "bedrooms": 1,
+    "beds": 2,
+    "bathrooms": 1,
+    "capacity": 4,
+    "superhost": true
+  },
+  {
+    "name": "Downtown Napa Valley King Suite",
+    "url": "https://www.airbnb.com/rooms/13411242?adults=1&children=&infants=&pets=&check_in=2026-03-08&check_out=2026-03-13&currency=USD&locale=en",
+    "price": 525,
+    "originalPrice": 725,
+    "qualifier": "for 5 nights",
+    "rating": 4.88,
+    "reviewCount": 884,
+    "image": "https://a0.muscache.com/im/pictures/b318265b-0506-4b06-96b3-d3532489330f.jpg?im_w=720",
+    "type": "Private room",
+    "location": "Napa",
+    "badges": [
+      "Superhost"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Cozy Silverado | Gtwy to Wine Country | Sleeps 4",
+    "url": "https://www.airbnb.com/rooms/1131881663743198496?adults=1&children=&infants=&pets=&check_in=2026-03-14&check_out=2026-03-19&currency=USD&locale=en",
+    "price": 775,
+    "originalPrice": 1222,
+    "qualifier": "for 5 nights",
+    "rating": 4.91,
+    "reviewCount": 86,
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1131881663743198496/original/78fea51d-064a-4b61-814b-91e3565ff72d.jpeg?im_w=720",
+    "type": "Apartment",
+    "location": "Napa",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 4,
+    "superhost": true
+  },
+  {
+    "name": "very private desert casita with mountain views",
+    "url": "https://www.airbnb.com/rooms/9181958?adults=1&children=&infants=&pets=&check_in=2026-05-22&check_out=2026-05-27&currency=USD&locale=en",
+    "price": 571,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.95,
+    "reviewCount": 1624,
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-9181958/original/07454e86-5a9a-4fc3-9790-00d9ce5f6e65.jpeg?im_w=720",
+    "type": "Apartment",
+    "location": "Palm Springs",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Mid-Century Modern 1B1B in Sandstone Villas!",
+    "url": "https://www.airbnb.com/rooms/31932881?adults=1&children=&infants=&pets=&check_in=2026-05-09&check_out=2026-05-16&currency=USD&locale=en",
+    "price": 892,
+    "originalPrice": null,
+    "qualifier": "for 7 nights",
+    "rating": 4.98,
+    "reviewCount": 152,
+    "image": "https://a0.muscache.com/im/pictures/aa745716-23e6-4752-ba01-995d68e12634.jpg?im_w=720",
+    "type": "Condo",
+    "location": "Palm Springs",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "No Tan Lines Casita Warm Sands Downtown PSID2690",
+    "url": "https://www.airbnb.com/rooms/3629397?adults=1&children=&infants=&pets=&check_in=2026-07-31&check_out=2026-08-05&currency=USD&locale=en",
+    "price": 657,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.99,
+    "reviewCount": 447,
+    "image": "https://a0.muscache.com/im/pictures/74954822/854c8eec_original.jpg?im_w=720",
+    "type": "Private room",
+    "location": "Palm Springs",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Private Tasteful Casita In Palm Springs",
+    "url": "https://www.airbnb.com/rooms/16530124?adults=1&children=&infants=&pets=&check_in=2026-03-31&check_out=2026-04-05&currency=USD&locale=en",
+    "price": 588,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.96,
+    "reviewCount": 580,
+    "image": "https://a0.muscache.com/im/pictures/54e2682b-ac86-45d3-a473-ada536baae33.jpg?im_w=720",
+    "type": "Private room",
+    "location": "Palm Springs",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Studio Hotel Suite near Union Square and Moscone!",
+    "url": "https://www.airbnb.com/rooms/1386278990727389533?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 1189,
+    "originalPrice": 1372,
+    "qualifier": "for 5 nights",
+    "rating": 4.93,
+    "reviewCount": 14,
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1386278990727389533/original/72695f5a-6c8c-4859-9e33-95de7cb2d8e2.png?im_w=720",
+    "type": "Condo",
+    "location": "San Francisco",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": null,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Peaceful Studio in the Trees",
+    "url": "https://www.airbnb.com/rooms/1064536310728603561?adults=1&children=&infants=&pets=&check_in=2026-04-25&check_out=2026-04-30&currency=USD&locale=en",
+    "price": 1164,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.99,
+    "reviewCount": 134,
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTA2NDUzNjMxMDcyODYwMzU2MQ%3D%3D/original/64041c56-8703-427e-81d4-18c210267659.jpeg?im_w=720",
+    "type": "Apartment",
+    "location": "San Francisco",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": null,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Private Small Loft Bedroom Central SF Victorian",
+    "url": "https://www.airbnb.com/rooms/53461380?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 437,
+    "originalPrice": 532,
+    "qualifier": "for 5 nights",
+    "rating": 4.92,
+    "reviewCount": 202,
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-53461380/original/6419e558-b6c6-439b-9a24-1d7aeaecb9a0.jpeg?im_w=720",
+    "type": "Private room",
+    "location": "San Francisco",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 2.5,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Eastern Touches in Fez Room. en suite. New. Views",
+    "url": "https://www.airbnb.com/rooms/30701028?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 694,
+    "originalPrice": 764,
+    "qualifier": "for 5 nights",
+    "rating": 4.98,
+    "reviewCount": 311,
+    "image": "https://a0.muscache.com/im/pictures/monet/Select-30701028/original/f137f65c-d834-439d-83e0-e9311ed769b7?im_w=720",
+    "type": "Private room",
+    "location": "San Francisco",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Private Cozy Studio w Parking",
+    "url": "https://www.airbnb.com/rooms/1463284427956271453?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 656,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.89,
+    "reviewCount": 38,
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1463284427956271453/original/8be7636f-a064-40ff-8d70-e962729de476.jpeg?im_w=720",
+    "type": "Home",
+    "location": "Santa Barbara",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": null,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Spacious/Private bathroom",
+    "url": "https://www.airbnb.com/rooms/605260607371037930?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 491,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.84,
+    "reviewCount": 224,
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NjA1MjYwNjA3MzcxMDM3OTMw/original/14fd5134-d6c9-49fc-9b91-e316b2989547.jpeg?im_w=720",
+    "type": "Private room",
+    "location": "Santa Barbara",
+    "badges": [
+      "Superhost"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Casa Riviera 4 \u2013 Boutique Suites",
+    "url": "https://www.airbnb.com/rooms/1425471822167831782?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 1001,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 5,
+    "reviewCount": 17,
+    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1425471822167831782/original/6deb44c9-8102-4526-89a1-3fc2aed0b9f0.jpeg?im_w=720",
+    "type": "Apartment",
+    "location": "Santa Barbara",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Castillo Studio 1 House",
+    "url": "https://www.airbnb.com/rooms/43885188?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 1019,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.8,
+    "reviewCount": 148,
+    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-43885188/original/58cd270b-e804-4682-beff-88ac15b7126d.jpeg?im_w=720",
+    "type": "Apartment",
+    "location": "Santa Barbara",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Carmel Hideaway",
+    "url": "https://www.airbnb.com/rooms/49004800?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 725,
+    "originalPrice": 1178,
+    "qualifier": "for 5 nights",
+    "rating": 4.7,
+    "reviewCount": 518,
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NDkwMDQ4MDA=/original/bd348949-c25b-473e-9780-3a7e0b5f91fe.jpeg?im_w=720",
+    "type": "Hotel room",
+    "location": "Carmel-by-the-Sea",
+    "badges": [
+      "Superhost"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Fancy-Free by the Sea",
+    "url": "https://www.airbnb.com/rooms/955408441273296078?adults=1&children=&infants=&pets=&check_in=2026-03-22&check_out=2026-03-27&currency=USD&locale=en",
+    "price": 737,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.94,
+    "reviewCount": 142,
+    "image": "https://a0.muscache.com/im/pictures/21b3d76b-80a8-4501-9375-ad7a1812c2e4.jpg?im_w=720",
+    "type": "Apartment",
+    "location": "Carmel-by-the-Sea",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Flora Belle, Perfect Carmel-by-the-Sea Getaway",
+    "url": "https://www.airbnb.com/rooms/25963267?adults=1&children=&infants=&pets=&check_in=2026-07-25&check_out=2026-07-30&currency=USD&locale=en",
+    "price": 1307,
+    "originalPrice": null,
+    "qualifier": "for 5 nights",
+    "rating": 4.92,
+    "reviewCount": 852,
+    "image": "https://a0.muscache.com/im/pictures/fdab6ce2-0ce4-47ea-9d3f-65edbb2b5a60.jpg?im_w=720",
+    "type": "Condo",
+    "location": "Carmel-by-the-Sea",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "capacity": 2,
+    "superhost": true
+  },
+  {
+    "name": "Rare Stay Inside Yosemite NP w/ Hot Tub, AC, WiFi",
+    "url": "https://www.airbnb.com/rooms/1551637682943328708?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 1214,
+    "originalPrice": 1315,
+    "qualifier": "for 5 nights",
+    "rating": 5,
+    "reviewCount": 9,
+    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1551637682943328708/original/e15d144c-3cd3-4d5b-bf61-5268bb0a9b13.png?im_w=720",
+    "type": "Cabin",
+    "location": "Wawona",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 3,
+    "beds": 4,
+    "bathrooms": 2,
+    "capacity": 8,
+    "superhost": false
+  },
+  {
+    "name": "Private 5-Acre Yosemite Suite | Deck+BBQ | Spa Tub",
+    "url": "https://www.airbnb.com/rooms/799210645903748914?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 384,
+    "originalPrice": 419,
+    "qualifier": "for 5 nights",
+    "rating": 4.86,
+    "reviewCount": 99,
+    "image": "https://a0.muscache.com/im/pictures/3e6881d9-c23f-49b4-9c6e-d8773d7f799d.jpg?im_w=720",
+    "type": "Guest suite",
+    "location": "Oakhurst",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": null,
+    "beds": 3,
+    "bathrooms": 1,
+    "capacity": 4,
+    "superhost": true
+  },
+  {
+    "name": "YoBee!Heart of Yosemite.Park Entrance+Breakfast~L8",
+    "url": "https://www.airbnb.com/rooms/39321216?adults=1&children=&infants=&pets=&check_in=2026-03-01&check_out=2026-03-06&currency=USD&locale=en",
+    "price": 1082,
+    "originalPrice": 1288,
+    "qualifier": "for 5 nights",
+    "rating": 4.93,
+    "reviewCount": 422,
+    "image": "https://a0.muscache.com/im/pictures/b628bb17-9070-4d78-bcde-b7dc8fc7d194.jpg?im_w=720",
+    "type": "Apartment",
+    "location": "Yosemite National Park",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 1,
+    "beds": 2,
+    "bathrooms": 1,
+    "capacity": 4,
+    "superhost": true
+  },
+  {
+    "name": "Alpenglow 2",
+    "url": "https://www.airbnb.com/rooms/13980592?adults=1&children=&infants=&pets=&check_in=2026-03-08&check_out=2026-03-13&currency=USD&locale=en",
+    "price": 1284,
+    "originalPrice": 1572,
+    "qualifier": "for 5 nights",
+    "rating": 4.91,
+    "reviewCount": 278,
+    "image": "https://a0.muscache.com/im/pictures/766e2cea-fc5e-4a97-a60b-6bb605727ffc.jpg?im_w=720",
+    "type": "Cabin",
+    "location": "Yosemite National Park",
+    "badges": [
+      "Guest favorite"
+    ],
+    "bedrooms": 2,
+    "beds": 4,
+    "bathrooms": 2,
+    "capacity": 6,
+    "superhost": true
+  }
+]

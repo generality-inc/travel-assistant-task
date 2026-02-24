@@ -1,62 +1,106 @@
+"use client";
+
+import { useEffect, useRef } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+
+const ease = [0.23, 1, 0.32, 1] as const;
+
 interface SearchParams {
   location: string;
-  check_in: string | null;
-  check_out: string | null;
-  adults: number;
-  children: number;
-  infants: number;
-  currency: string;
-  maxListings: number;
+  check_in?: string | null;
+  check_out?: string | null;
+  adults?: number;
+  children?: number;
+  infants?: number;
+  currency?: string;
+  limit?: number;
 }
 
 interface TranscriptDisplayProps {
-  transcript: string;
-  searchParams: SearchParams;
+  userTranscript: string;
+  aiTranscript: string;
+  searchParams: SearchParams | null;
+  isListening: boolean;
 }
 
 export default function TranscriptDisplay({
-  transcript,
+  userTranscript,
+  aiTranscript,
   searchParams,
+  isListening,
 }: TranscriptDisplayProps) {
-  return (
-    <div className="space-y-4">
-      <div>
-        <h3 className="text-sm font-medium text-zinc-500 mb-1">
-          You said:
-        </h3>
-        <blockquote className="border-l-4 border-zinc-300 pl-4 text-zinc-700 italic">
-          &ldquo;{transcript}&rdquo;
-        </blockquote>
-      </div>
+  const scrollRef = useRef<HTMLDivElement>(null);
 
-      <div>
-        <h3 className="text-sm font-medium text-zinc-500 mb-2">
-          Search parameters:
-        </h3>
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 text-sm">
-          <Param label="Location" value={searchParams.location} />
-          <Param label="Check-in" value={searchParams.check_in || "Flexible"} />
-          <Param label="Check-out" value={searchParams.check_out || "Flexible"} />
-          <Param label="Guests" value={formatGuests(searchParams)} />
+  useEffect(() => {
+    scrollRef.current?.scrollTo({
+      top: scrollRef.current.scrollHeight,
+      behavior: "smooth",
+    });
+  }, [userTranscript, aiTranscript]);
+
+  if (!userTranscript && !aiTranscript) return null;
+
+  return (
+    <div ref={scrollRef} className="space-y-3 max-h-48 overflow-y-auto">
+      {userTranscript && (
+        <div className="text-sm text-zinc-600">
+          <span className="text-zinc-400 text-xs block mb-1">You</span>
+          <p>
+            {userTranscript}
+            {isListening && (
+              <span
+                className="inline-block w-0.5 h-4 bg-zinc-400 ml-0.5 align-text-bottom"
+                style={{ animation: "blink 1s steps(2) infinite" }}
+              />
+            )}
+          </p>
         </div>
-      </div>
+      )}
+
+      {aiTranscript && (
+        <div className="text-sm text-zinc-500">
+          <span className="text-zinc-400 text-xs block mb-1">Assistant</span>
+          <p>{aiTranscript}</p>
+        </div>
+      )}
+
+      <AnimatePresence>
+        {searchParams && (
+          <motion.div
+            className="flex flex-wrap gap-1.5 pt-1"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+          >
+            <Pill label={searchParams.location} />
+            {searchParams.check_in && (
+              <Pill label={`${searchParams.check_in} → ${searchParams.check_out || "?"}`} />
+            )}
+            {(searchParams.adults ?? 0) > 0 && (
+              <Pill label={`${searchParams.adults} adult${(searchParams.adults ?? 0) > 1 ? "s" : ""}`} />
+            )}
+            {(searchParams.children ?? 0) > 0 && (
+              <Pill label={`${searchParams.children} children`} />
+            )}
+            {searchParams.currency && searchParams.currency !== "USD" && (
+              <Pill label={searchParams.currency} />
+            )}
+          </motion.div>
+        )}
+      </AnimatePresence>
     </div>
   );
 }
 
-function Param({ label, value }: { label: string; value: string }) {
+function Pill({ label }: { label: string }) {
   return (
-    <div className="bg-zinc-100 rounded px-3 py-2">
-      <span className="text-zinc-400 block text-xs">{label}</span>
-      <span className="text-zinc-800 font-medium">{value}</span>
-    </div>
+    <motion.span
+      className="inline-block text-xs bg-zinc-100 text-zinc-600 px-2.5 py-1 rounded-full"
+      initial={{ opacity: 0, scale: 0.95 }}
+      animate={{ opacity: 1, scale: 1 }}
+      transition={{ duration: 0.25, ease }}
+    >
+      {label}
+    </motion.span>
   );
-}
-
-function formatGuests(params: SearchParams): string {
-  const parts = [];
-  if (params.adults) parts.push(`${params.adults} adult${params.adults > 1 ? "s" : ""}`);
-  if (params.children) parts.push(`${params.children} child${params.children > 1 ? "ren" : ""}`);
-  if (params.infants) parts.push(`${params.infants} infant${params.infants > 1 ? "s" : ""}`);
-  return parts.join(", ") || "1 adult";
 }

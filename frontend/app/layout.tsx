@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Voice AI Travel Planner",
+  title: "AI Travel Assistant",
   description: "Find Airbnb listings with your voice",
 };
 
