@@ -6,6 +6,10 @@ Build a voice-driven travel search application that lets users find Airbnb listi
 
 Create a web application where users can describe their ideal trip using their voice, and see matching Airbnb listings appear in real time. The application should feel conversational — users start with a broad request like "I want to visit Tokyo" and progressively refine by speaking additional criteria like "somewhere near Shibuya", "for 4 guests", or "with a pool".
 
+The UI should follow a similar design language to Airbnb's listing dashboard:
+
+![Airbnb Dashboard](airbnb-dashboard.png)
+
 ## Core Requirements
 
 - A frontend (framework of your choice) with a voice input interface
