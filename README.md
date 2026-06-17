@@ -20,7 +20,7 @@ The UI should follow a similar design language to Airbnb's listing dashboard:
 
 **OpenAI** — Use any combination of OpenAI APIs (Whisper, Chat Completions, Realtime API, etc.) to handle speech-to-text and natural language understanding. The system should interpret user intent and translate it into structured search parameters.
 
-**Airbnb Data** — Use the [Airbnb Explorer](https://apify.com/jupri/airbnb) actor on Apify (actor ID: `jupri~airbnb`) to fetch listings. The actor accepts filters like location, dates, guest count, price range, amenities, property type, and more. See the actor's input schema for the full set of available filters.
+**Airbnb Data** — Use the Airbnb Scraper actor on Apify (actor ID: `tri_angle/airbnb-scraper`, `https://api.apify.com/v2/actors/GsNzxEKzE2vQ5d9HN/`) to fetch listings. The actor accepts filters like location, dates, guest count, price range, amenities, property type, and more. See the actor's input schema for the full set of available filters.
 
 ## What We're Looking For
 
